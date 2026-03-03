@@ -28,3 +28,7 @@ The model was trained on the "Dogs vs Muffins" dataset.
 1. Clone the repository:
    `bash
    git clone [https://github.com/Ghadeer-Ali-x/ViT-Dog-vs-Muffin.git](https://github.com/Ghadeer-Ali-x/ViT_Dog_vs_Muffin.git)
+
+## Dataset
+The dataset used in this project is the Dogs vs Muffins dataset. 
+You can download it directly from Kaggle: [[Link to Dataset](https://www.kaggle.com/competitions/cs-460-muffin-vs-chihuahua-classification-challenge/data)]
